@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_list.xml.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\debug\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\menu\\share_menu.xml"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Atharv\\AndroidOreo\\Rob\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
